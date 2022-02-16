@@ -153,12 +153,6 @@
   background-color: #0D5EAF;
 }
 
-.smallbox {
-  width: 6.67%;
+.strips {
   height: 11.1%;
-  position: relative;
-}
-.flex-blue {
-  display: flex;
-  background-color: #0D5EAF; 
 }
